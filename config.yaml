@@ -51,9 +51,9 @@ params:
   # It will default to the theme logos if not provided. 
   #navbar.htmlにかかれる
   logo:
-    main: /images/site/yuichi_logo_black.png
-    inverted: /images/site/yuichi_logo_white_w_trans.png
-    favicon: /images/site/favicon.png
+    main: /images/site/yuichi_logo_black_big.png
+    inverted: /images/site/yuichi_logo_white_big.png
+    favicon: /images/site/yuichi_logo_white_big.png
 
   # GitHub repo of your site
   gitRepo: https://github.com/YuichiNAGAO/YuichiNAGAO.github.io
