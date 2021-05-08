@@ -1,0 +1,77 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Use as the main operating system. Capable of writing bash/shell scripts."
+
+- name: Prometheus
+  logo: /images/sections/skills/prometheus.png
+  summary: "Manage all GPU servers in my laboratory. Capable of setup, configure Prometheus metrics. Also, created monitoring tools with Grafana."
+  url: "https://prometheus.io/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Write most of the research programs as dockerized container."
+  url: "https://www.docker.com/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Experienced with git-based development. Also, have experience in working with GitLab."
+  url: "https://git-scm.com/"
+
+
+- name: Cloud Computing
+  logo: /images/sections/skills/cloud.png
+  summary: "Experienced with AWS during my internship."
+
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "Using as the main language. Capable of manipulate machine learning libraries such as Pytorch, Tensorflow, Pandas and Scikit-learn."
+
+
+- name: C++
+  logo: /images/sections/skills/c++.png
+  summary: "Know basic C/C++ programming. Mainly, using in software engineer internships."
+
+- name: Java / Kotlin
+  logo: /images/sections/skills/java.png
+  summary: "Developped Android application with school team members."
+
+- name: Unity / C#
+  logo: /images/sections/skills/unity.jpeg
+  summary: "Developped AR application."
+
+
+# - name: Kubernetes
+#   logo: /images/sections/skills/kubernetes.png
+#   summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+#   url: "https://kubernetes.io/"
+
+# - name: Go Development
+#   logo: /images/sections/skills/go.png
+#   summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+#   url: "https://golang.org/"
+
+
+
+
+
+
+
+
+
+
+
