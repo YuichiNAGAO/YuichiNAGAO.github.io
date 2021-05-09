@@ -10,9 +10,28 @@ section:
   # hideTitle: true
 
 degrees:
+
+
+- name: BS, Electronics and Electrical Engineering.
+  icon: fa-university
+  timeframe: April 2016 - August 2018
+  institution:
+    name: Keio University, Faculty of science and technology
+    url: "https://www.st.keio.ac.jp/en/"
+  
+
+  
+- name:  Double degree program. Diplôme d'Ingénieur, a postgraduate degree in engineering by the French Grandes Écoles.
+  icon: fa-graduation-cap
+  timeframe: September 2018 - August 2020
+  institution:
+    name: École centrale de Lyon
+    url: "https://www.ec-lyon.fr/en"
+  
+
 - name: MS, Computer Science.
   icon: fa-microscope
-  timeframe: 2020.9-2022.8
+  timeframe: September 2020 - August 2022
   institution:
     name: Keio University, Faculty of science and technology
     url: "https://www.st.keio.ac.jp/en/"
@@ -20,19 +39,5 @@ degrees:
   # - title: Audio-Visual Hybrid Approach for Filling Mass Estimation.
   #   url: "https://link.springer.com/chapter/10.1007%2F978-3-030-68793-9_32"
   
-- name:  Double degree program. Diplôme d'Ingénieur, a postgraduate degree in engineering by the French Grandes Écoles.
-  icon: fa-graduation-cap
-  timeframe: 2018.9-2020.9
-  institution:
-    name: École centrale de Lyon
-    url: "https://www.ec-lyon.fr/en"
-  
-  
-- name: BS, Electronics and Electrical Engineering.
-  icon: fa-university
-  timeframe: 2016.4-2018.8
-  institution:
-    name: Keio University, Faculty of science and technology
-    url: "https://www.st.keio.ac.jp/en/"
-  
+
   
