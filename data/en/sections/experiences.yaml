@@ -10,6 +10,20 @@ section:
 
 # Your experiences
 experiences:
+
+- company:
+    name: Cirad
+    url: "https://www.cirad.fr/"
+    location: Montpelier
+    overview: A French international agritech research center
+  positions:
+  - designation: Full-time Intern Data Analyst / Scientist
+    start: April 2020
+    end: Sep 2020
+    responsibilities:
+    - Process image data captured by drones in forest site.
+    - Develop deep-learning tools for detecting specific trees with Python, Pytorch etc.
+  
 - company:
     name: HULIX Technologies, inc.
     url: "https://www.hulix-tech.com/"
@@ -26,16 +40,3 @@ experiences:
     - Create data pipline for processing sensor data.
     - Write C++ and Python as programing language.
     - Sometimes, survey state-of-the-art research papers useful for development.
-
-- company:
-    name: Cirad
-    url: "https://www.cirad.fr/"
-    location: Montpelier
-    overview: A French international agritech research center
-  positions:
-  - designation: Intern Data Analyst / Scientist
-    start: April 2020
-    end: Sep 2020
-    responsibilities:
-    - Process image data captured by drones in forest site.
-    - Develop deep-learning tools for detecting specific trees with Python, Pytorch etc.
