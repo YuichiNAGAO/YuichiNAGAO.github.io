@@ -14,7 +14,7 @@ degrees:
 
 - name: BS, Electronics and Electrical Engineering.
   icon: fa-university
-  timeframe: April 2016 - August 2018
+  timeframe: Apr 2016 - Aug 2018
   institution:
     name: Keio University, Faculty of science and technology
     url: "https://www.st.keio.ac.jp/en/"
@@ -23,7 +23,7 @@ degrees:
   
 - name:  Double degree program. Diplôme d'Ingénieur, a postgraduate degree in engineering by the French Grandes Écoles.
   icon: fa-graduation-cap
-  timeframe: September 2018 - August 2020
+  timeframe: Sep 2018 - Aug 2020
   institution:
     name: École centrale de Lyon
     url: "https://www.ec-lyon.fr/en"
@@ -31,7 +31,7 @@ degrees:
 
 - name: MS, Computer Science.
   icon: fa-microscope
-  timeframe: September 2020 - August 2022
+  timeframe: Sep 2020 - Aug 2022
   institution:
     name: Keio University, Faculty of science and technology
     url: "https://www.st.keio.ac.jp/en/"
