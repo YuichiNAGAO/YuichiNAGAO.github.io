@@ -34,7 +34,7 @@ skills:
 
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Experienced with AWS during my internship."
+  summary: "Have basic knowledge about AWS. Experienced with AWS during my internship."
 
 
 - name: Python
@@ -46,13 +46,9 @@ skills:
   logo: /images/sections/skills/c++.png
   summary: "Know basic C/C++ programming. Mainly, using in software engineer internships."
 
-- name: Java / Kotlin
-  logo: /images/sections/skills/java.png
-  summary: "Developped Android application with school team members."
-
 - name: Unity / C#
   logo: /images/sections/skills/unity.jpeg
-  summary: "Developped AR application."
+  summary: "Developped visualization tool and AR application."
 
 
 # - name: Kubernetes
