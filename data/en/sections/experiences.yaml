@@ -46,7 +46,7 @@ experiences:
     url: "https://exawizards.com/"
     location: Tokyo
     # company overview
-    overview: An AI company
+    overview: AI product development company
   positions:
   - designation: Intern Software Engineer (Platform Engineer, MLOps Engineer)
     start: July 2021
@@ -55,4 +55,4 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Developement and operation of a platform for machine learning (Kubeflow, AWS Sagemaker).
-    - Infrastructure building and operation on AWS.
+    - Infrastructure building and operation on AWS (Terraform, Kubernetes, Docker, CI/CD).
