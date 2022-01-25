@@ -21,8 +21,8 @@ experiences:
     start: April 2020
     end: September 2020
     responsibilities:
-    - Process image data captured by drones in forest site.
-    - Develop deep-learning tools for detecting specific trees with Python, Pytorch etc.
+    - Process image data captured by drones in forest site
+    - Develop deep-learning tools for detecting specific trees with Python, Pytorch etc
   
 - company:
     name: HULIX Technologies, inc.
@@ -38,15 +38,15 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Create data pipline for processing sensor data.
-    - Sometimes, survey state-of-the-art research papers useful for development.
+    - Create data pipline for processing sensor data
+    - Sometimes, survey state-of-the-art research papers useful for development
 
 - company:
     name: Exawizards inc.
     url: "https://exawizards.com/"
     location: Tokyo
     # company overview
-    overview: AI product development company
+    overview: A ML product development company
   positions:
   - designation: Intern DevOps Engineer (Platform Engineer, MLOps Engineer)
     start: July 2021
@@ -58,5 +58,5 @@ experiences:
     - Developement and operation of a platform for machine learning (Kubeflow, AWS Sagemaker).
     - Infrastructure building and operation on AWS
     - Driving Infrastracture as Code (Terraform)
-    - Microservice developpement and Operation (Kubernetes, Nomad) 
+    - Microservice developement and Operation (Kubernetes, Nomad) 
     - Management and maintainance of CI/CD pipeline
