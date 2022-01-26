@@ -58,5 +58,5 @@ experiences:
     - Development and operation of a platform for machine learning (Kubeflow, AWS Sagemaker)
     - Infrastructure building and operation on AWS
     - Driving Infrastructure as Code (Terraform)
-    - Microservice development and Operation (Kubernetes, Nomad) 
+    - Microservice development and operation (Kubernetes, Nomad) 
     - Management and maintenance of CI/CD pipeline
