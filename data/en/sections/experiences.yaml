@@ -55,8 +55,8 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Developement and operation of a platform for machine learning (Kubeflow, AWS Sagemaker).
+    - Development and operation of a platform for machine learning (Kubeflow, AWS Sagemaker)
     - Infrastructure building and operation on AWS
-    - Driving Infrastracture as Code (Terraform)
-    - Microservice developement and Operation (Kubernetes, Nomad) 
-    - Management and maintainance of CI/CD pipeline
+    - Driving Infrastructure as Code (Terraform)
+    - Microservice development and Operation (Kubernetes, Nomad) 
+    - Management and maintenance of CI/CD pipeline
