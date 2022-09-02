@@ -60,4 +60,21 @@ experiences:
     - Driving Infrastructure as Code (Terraform)
     - Microservice development and operation (Kubernetes, Nomad) 
     - Management and maintenance of CI/CD pipeline
-    - Logging system operation and improvement (ELK Stack)
+    - Logging system operation and improvement (ELK Stack) 
+    - Migration project from Nomad to Kubernete
+
+- company:
+    name: freee
+    url: "https://corp.freee.co.jp/en/service/"
+    location: Tokyo
+    # company overview
+    overview: Japanese Cloud-based Accounting and HR Software Providers
+  positions:
+  - designation: Full-Time Intern Software Development Engineer
+    start: August 2022
+    end: Present
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Development of cloud-based HR software using Rails(Backend) and React/TypeScript(Frontend) 
