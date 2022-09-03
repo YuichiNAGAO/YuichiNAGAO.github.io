@@ -6,75 +6,74 @@ section:
   weight: 2
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
+  - company:
+      name: Cirad
+      url: "https://www.cirad.fr/"
+      location: Montpellier
+      overview: A French international agritech research center
+    positions:
+      - designation: Full-time Intern Data Analyst / Scientist
+        start: April 2020
+        end: September 2020
+        responsibilities:
+          - Process image data captured by drones in forest site
+          - Develop deep-learning tools for detecting specific trees with Python, Pytorch etc
 
-- company:
-    name: Cirad
-    url: "https://www.cirad.fr/"
-    location: Montpellier
-    overview: A French international agritech research center
-  positions:
-  - designation: Full-time Intern Data Analyst / Scientist
-    start: April 2020
-    end: September 2020
-    responsibilities:
-    - Process image data captured by drones in forest site
-    - Develop deep-learning tools for detecting specific trees with Python, Pytorch etc
-  
-- company:
-    name: HULIX Technologies, inc.
-    url: "https://www.hulix-tech.com/"
-    location: Osaka(Remote)
-    # company overview
-    overview: A technology company developing digital twin platform from Lidar sensor
-  positions:
-  - designation: Intern Software Engineer (Data engineer)
-    start: January 2021
-    end: July 2021
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Create data pipline for processing sensor data
-    - Sometimes, survey state-of-the-art research papers useful for development
+  - company:
+      name: HULIX Technologies, inc.
+      url: "https://www.hulix-tech.com/"
+      location: Osaka(Remote)
+      # company overview
+      overview: A technology company developing digital twin platform from Lidar sensor
+    positions:
+      - designation: Intern Software Engineer (Data engineer)
+        start: January 2021
+        end: July 2021
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Create data pipline for processing sensor data
+          - Sometimes, survey state-of-the-art research papers useful for development
 
-- company:
-    name: Exawizards inc.
-    url: "https://exawizards.com/"
-    location: Tokyo
-    # company overview
-    overview: A ML product development company
-  positions:
-  - designation: Intern DevOps Engineer (Platform Engineer, MLOps Engineer)
-    start: July 2021
-    end: Present
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Development and operation of a platform for machine learning (Kubeflow, AWS Sagemaker)
-    - Infrastructure building and operation on AWS
-    - Driving Infrastructure as Code (Terraform)
-    - Microservice development and operation (Kubernetes, Nomad) 
-    - Management and maintenance of CI/CD pipeline
-    - Logging system operation and improvement (ELK Stack) 
-    - Migration project from Nomad to Kubernete
+  - company:
+      name: Exawizards inc.
+      url: "https://exawizards.com/"
+      location: Tokyo
+      # company overview
+      overview: A ML product development company
+    positions:
+      - designation: Intern DevOps Engineer (Platform Engineer, MLOps Engineer)
+        start: July 2021
+        end: Present
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Development and operation of a platform for machine learning (Kubeflow, AWS Sagemaker)
+          - Infrastructure building and operation on AWS
+          - Driving Infrastructure as Code (Terraform)
+          - Microservice development and operation (Kubernetes, Nomad)
+          - Management and maintenance of CI/CD pipeline
+          - Logging system operation and improvement (ELK Stack)
+          - Migration project from Nomad to Kubernete
 
-- company:
-    name: freee
-    url: "https://corp.freee.co.jp/en/service/"
-    location: Tokyo
-    # company overview
-    overview: Japanese Cloud-based Accounting and HR Software Providers
-  positions:
-  - designation: Full-Time Intern Software Development Engineer
-    start: August 2022
-    end: Present
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Development of cloud-based HR software using Rails(Backend) and React/TypeScript(Frontend) 
+  - company:
+      name: freee
+      url: "https://corp.freee.co.jp/en/service/"
+      location: Tokyo
+      # company overview
+      overview: Japanese Cloud-based Accounting and HR Software Providers
+    positions:
+      - designation: Full-Time Intern Software Engineer
+        start: August 2022
+        end: Present
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Dec 2020
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Development of cloud-based HR software using Ruby on Rails(Backend) and React/TypeScript(Frontend)
