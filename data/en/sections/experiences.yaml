@@ -49,7 +49,7 @@ experiences:
     positions:
       - designation: Intern DevOps Engineer (Platform Engineer, MLOps Engineer)
         start: July 2021
-        end: Present
+        end: August 2022
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
@@ -76,4 +76,4 @@ experiences:
         # end: Dec 2020
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Development of cloud-based HR software using Ruby on Rails(Backend) and React/TypeScript(Frontend)
+          - Development of cloud-based HR software using Ruby on Rails (Backend) and React/TypeScript (Frontend)
